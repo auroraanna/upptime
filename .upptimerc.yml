@@ -13,7 +13,7 @@ sites:
     url: https://kaufkauflist.annaaurora.eu
     ipv6: true
   - name: WKD
-    url: https://openpgpkey.annaaurora.eu/.well-known/openpgpkey/hu/fxy63pyohfbm34b533z1nk4bhfhbkpsh
+    url: https://openpgpkey.annaaurora.eu/.well-known/openpgpkey/annaaurora.eu/hu/fxy63pyohfbm34b533z1nk4bhfhbkpsh
     ipv6: true
   - name: Find Billy!
     url: https://find-billy.annaaurora.eu

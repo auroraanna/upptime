@@ -4,18 +4,20 @@
     "url": "https://annaaurora.eu",
     "icon": "https://icons.duckduckgo.com/ip3/annaaurora.eu.ico",
     "slug": "aaura-w3-strawb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 487,
-    "timeWeek": 600,
-    "timeMonth": 595,
-    "timeYear": 595,
-    "dailyMinutesDown": {}
+    "time": 582,
+    "timeDay": 397,
+    "timeWeek": 551,
+    "timeMonth": 582,
+    "timeYear": 582,
+    "dailyMinutesDown": {
+      "2024-05-17": 0
+    }
   },
   {
     "name": "meme-bingo-web",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 363,
-    "timeWeek": 630,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "time": 550,
+    "timeDay": 435,
+    "timeWeek": 587,
+    "timeMonth": 550,
+    "timeYear": 550,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 810,
-    "timeDay": 335,
-    "timeWeek": 1144,
-    "timeMonth": 810,
-    "timeYear": 810,
+    "time": 781,
+    "timeDay": 345,
+    "timeWeek": 1091,
+    "timeMonth": 781,
+    "timeYear": 781,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 463,
-    "timeWeek": 537,
-    "timeMonth": 476,
-    "timeYear": 476,
+    "time": 480,
+    "timeDay": 540,
+    "timeWeek": 514,
+    "timeMonth": 480,
+    "timeYear": 480,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 525,
+    "time": 488,
+    "timeDay": 536,
     "timeWeek": 491,
-    "timeMonth": 485,
-    "timeYear": 485,
+    "timeMonth": 488,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   }
 ]

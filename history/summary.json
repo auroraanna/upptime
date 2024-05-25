@@ -4,18 +4,19 @@
     "url": "https://annaaurora.eu",
     "icon": "https://icons.duckduckgo.com/ip3/annaaurora.eu.ico",
     "slug": "aaura-w3-strawb",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 558,
     "timeDay": 419,
     "timeWeek": 514,
     "timeMonth": 558,
     "timeYear": 558,
     "dailyMinutesDown": {
+      "2024-05-25": 1,
       "2024-05-19": 49,
       "2024-05-18": 34,
       "2024-05-17": 5
@@ -26,10 +27,10 @@
     "url": "https://bingo.annaaurora.eu",
     "icon": "https://icons.duckduckgo.com/ip3/bingo.annaaurora.eu.ico",
     "slug": "meme-bingo-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 526,
@@ -37,17 +38,19 @@
     "timeWeek": 470,
     "timeMonth": 526,
     "timeYear": 526,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-25": 1
+    }
   },
   {
     "name": "kaufkauflist",
     "url": "https://kaufkauflist.annaaurora.eu",
     "icon": "https://icons.duckduckgo.com/ip3/kaufkauflist.annaaurora.eu.ico",
     "slug": "kaufkauflist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 688,
@@ -55,16 +58,18 @@
     "timeWeek": 476,
     "timeMonth": 688,
     "timeYear": 688,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-25": 1
+    }
   },
   {
     "name": "WKD",
     "url": "https://openpgpkey.annaaurora.eu/.well-known/openpgpkey/annaaurora.eu/hu/fxy63pyohfbm34b533z1nk4bhfhbkpsh",
     "icon": "https://icons.duckduckgo.com/ip3/openpgpkey.annaaurora.eu.ico",
     "slug": "wkd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,14 +78,16 @@
     "timeWeek": 492,
     "timeMonth": 484,
     "timeYear": 484,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-25": 0
+    }
   },
   {
     "name": "Find Billy!",
     "url": "https://find-billy.annaaurora.eu",
     "icon": "https://icons.duckduckgo.com/ip3/find-billy.annaaurora.eu.ico",
     "slug": "find-billy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -91,6 +98,8 @@
     "timeWeek": 451,
     "timeMonth": 477,
     "timeYear": 477,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-25": 0
+    }
   }
 ]

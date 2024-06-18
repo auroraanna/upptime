@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/annaaurora.eu.ico",
     "slug": "aaura-w3-strawb",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.79%",
-    "time": 546,
-    "timeDay": 412,
-    "timeWeek": 544,
-    "timeMonth": 525,
-    "timeYear": 546,
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.80%",
+    "time": 543,
+    "timeDay": 402,
+    "timeWeek": 545,
+    "timeMonth": 524,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2024-05-25": 36,
       "2024-05-19": 49,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 527,
-    "timeDay": 519,
-    "timeWeek": 559,
-    "timeMonth": 512,
-    "timeYear": 527,
+    "time": 524,
+    "timeDay": 397,
+    "timeWeek": 568,
+    "timeMonth": 511,
+    "timeYear": 524,
     "dailyMinutesDown": {
       "2024-05-25": 35
     }
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 594,
-    "timeDay": 362,
-    "timeWeek": 565,
-    "timeMonth": 496,
-    "timeYear": 594,
+    "time": 593,
+    "timeDay": 533,
+    "timeWeek": 575,
+    "timeMonth": 502,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2024-05-25": 35
     }
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 474,
-    "timeDay": 539,
-    "timeWeek": 495,
-    "timeMonth": 473,
-    "timeYear": 474,
+    "time": 476,
+    "timeDay": 578,
+    "timeWeek": 508,
+    "timeMonth": 474,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2024-05-25": 35
     }
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 470,
-    "timeDay": 504,
+    "time": 467,
+    "timeDay": 337,
     "timeWeek": 446,
-    "timeMonth": 463,
-    "timeYear": 470,
+    "timeMonth": 457,
+    "timeYear": 467,
     "dailyMinutesDown": {
       "2024-05-25": 35
     }

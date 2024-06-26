@@ -4,10 +4,10 @@
     "url": "https://annaaurora.eu",
     "icon": "https://icons.duckduckgo.com/ip3/annaaurora.eu.ico",
     "slug": "aaura-w3-strawb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 538,
@@ -16,6 +16,7 @@
     "timeMonth": 518,
     "timeYear": 538,
     "dailyMinutesDown": {
+      "2024-06-26": 1,
       "2024-05-25": 36,
       "2024-05-19": 49,
       "2024-05-18": 34,
@@ -27,9 +28,9 @@
     "url": "https://bingo.annaaurora.eu",
     "icon": "https://icons.duckduckgo.com/ip3/bingo.annaaurora.eu.ico",
     "slug": "meme-bingo-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -39,6 +40,7 @@
     "timeMonth": 508,
     "timeYear": 520,
     "dailyMinutesDown": {
+      "2024-06-26": 0,
       "2024-05-25": 35
     }
   },
@@ -47,9 +49,9 @@
     "url": "https://kaufkauflist.annaaurora.eu",
     "icon": "https://icons.duckduckgo.com/ip3/kaufkauflist.annaaurora.eu.ico",
     "slug": "kaufkauflist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -59,6 +61,7 @@
     "timeMonth": 494,
     "timeYear": 577,
     "dailyMinutesDown": {
+      "2024-06-26": 0,
       "2024-05-25": 35
     }
   },
@@ -67,9 +70,9 @@
     "url": "https://openpgpkey.annaaurora.eu/.well-known/openpgpkey/annaaurora.eu/hu/fxy63pyohfbm34b533z1nk4bhfhbkpsh",
     "icon": "https://icons.duckduckgo.com/ip3/openpgpkey.annaaurora.eu.ico",
     "slug": "wkd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -79,6 +82,7 @@
     "timeMonth": 482,
     "timeYear": 481,
     "dailyMinutesDown": {
+      "2024-06-26": 0,
       "2024-05-25": 35
     }
   },

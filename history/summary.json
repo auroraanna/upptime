@@ -4,9 +4,9 @@
     "url": "https://annaaurora.eu",
     "icon": "https://icons.duckduckgo.com/ip3/annaaurora.eu.ico",
     "slug": "aaura-w3-strawb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.78%",
+    "uptimeDay": "98.77%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.78%",
@@ -16,6 +16,7 @@
     "timeMonth": 518,
     "timeYear": 534,
     "dailyMinutesDown": {
+      "2024-06-29": 0,
       "2024-06-28": 18,
       "2024-06-27": 29,
       "2024-05-25": 36,
@@ -29,10 +30,10 @@
     "url": "https://bingo.annaaurora.eu",
     "icon": "https://icons.duckduckgo.com/ip3/bingo.annaaurora.eu.ico",
     "slug": "meme-bingo-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.92%",
     "time": 519,
@@ -41,6 +42,7 @@
     "timeMonth": 502,
     "timeYear": 519,
     "dailyMinutesDown": {
+      "2024-06-29": 0,
       "2024-06-27": 29,
       "2024-05-25": 35
     }
@@ -50,11 +52,11 @@
     "url": "https://kaufkauflist.annaaurora.eu",
     "icon": "https://icons.duckduckgo.com/ip3/kaufkauflist.annaaurora.eu.ico",
     "slug": "kaufkauflist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.92%",
     "time": 568,
     "timeDay": 537,
@@ -62,6 +64,7 @@
     "timeMonth": 495,
     "timeYear": 568,
     "dailyMinutesDown": {
+      "2024-06-29": 0,
       "2024-06-27": 28,
       "2024-05-25": 35
     }
@@ -71,9 +74,9 @@
     "url": "https://openpgpkey.annaaurora.eu/.well-known/openpgpkey/annaaurora.eu/hu/fxy63pyohfbm34b533z1nk4bhfhbkpsh",
     "icon": "https://icons.duckduckgo.com/ip3/openpgpkey.annaaurora.eu.ico",
     "slug": "wkd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.92%",
@@ -83,6 +86,7 @@
     "timeMonth": 468,
     "timeYear": 475,
     "dailyMinutesDown": {
+      "2024-06-29": 0,
       "2024-06-27": 28,
       "2024-05-25": 35
     }
@@ -92,7 +96,7 @@
     "url": "https://find-billy.annaaurora.eu",
     "icon": "https://icons.duckduckgo.com/ip3/find-billy.annaaurora.eu.ico",
     "slug": "find-billy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
@@ -104,6 +108,7 @@
     "timeMonth": 448,
     "timeYear": 462,
     "dailyMinutesDown": {
+      "2024-06-29": 0,
       "2024-06-27": 28,
       "2024-05-25": 35
     }

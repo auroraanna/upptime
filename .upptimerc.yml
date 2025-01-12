@@ -21,6 +21,11 @@ sites:
   - name: ntfy
     url: https://ntfy.annaaurora.eu
     ipv6: true
+  - name: nyancat telnet
+    check: "tcp-ping"
+    url: annaaurora.eu
+    port: 23
+    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

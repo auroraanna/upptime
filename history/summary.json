@@ -41,19 +41,19 @@
     "url": "https://bingo.annaaurora.eu",
     "icon": "https://icons.duckduckgo.com/ip3/bingo.annaaurora.eu.ico",
     "slug": "meme-bingo-web",
-    "status": "down",
-    "uptime": "99.10%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.10%",
+    "status": "up",
+    "uptime": "99.08%",
+    "uptimeDay": "92.45%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.08%",
     "time": 595,
-    "timeDay": 1860,
-    "timeWeek": 1403,
-    "timeMonth": 948,
+    "timeDay": 1731,
+    "timeWeek": 1347,
+    "timeMonth": 936,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2025-01-13": 24,
+      "2025-01-13": 88,
       "2025-01-12": 20,
       "2024-12-27": 200,
       "2024-11-11": 18,
@@ -213,7 +213,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-13": 338,
+      "2025-01-13": 402,
       "2025-01-12": 57
     }
   }

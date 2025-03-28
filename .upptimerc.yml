@@ -21,6 +21,9 @@ sites:
   - name: ntfy
     url: https://ntfy.annaaurora.eu
     ipv6: true
+  - name: matrix (server)
+    url: "https://matrix.annaaurora.eu:443/_conduwuit/server_version"
+    ipv6: true
   - name: nyancat telnet
     check: "tcp-ping"
     url: annaaurora.eu

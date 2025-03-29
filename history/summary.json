@@ -201,19 +201,19 @@
     "url": "https://matrix.annaaurora.eu:443/_conduwuit/server_version",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.annaaurora.eu.ico",
     "slug": "matrix-server",
-    "status": "down",
-    "uptime": "98.26%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.26%",
-    "time": 1763,
-    "timeDay": 1763,
-    "timeWeek": 1763,
-    "timeMonth": 1763,
-    "timeYear": 1763,
+    "status": "up",
+    "uptime": "97.68%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
+    "time": 1589,
+    "timeDay": 1589,
+    "timeWeek": 1589,
+    "timeMonth": 1589,
+    "timeYear": 1589,
     "dailyMinutesDown": {
-      "2025-03-29": 22
+      "2025-03-29": 30
     }
   },
   {
@@ -233,7 +233,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 927,
+      "2025-03-29": 935,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,

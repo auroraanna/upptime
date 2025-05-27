@@ -1,7 +1,7 @@
 url: https://matrix.annaaurora.eu:443/_conduwuit/server_version
-status: down
-code: 502
-responseTime: 3689
-lastUpdated: 2025-05-27T19:50:18.140Z
+status: up
+code: 200
+responseTime: 517
+lastUpdated: 2025-05-27T19:56:18.933Z
 startTime: 2025-03-28T17:58:21.680Z
 generator: Upptime <https://github.com/upptime/upptime>

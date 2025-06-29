@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 590,
-    "timeDay": 1128,
-    "timeWeek": 576,
-    "timeMonth": 568,
-    "timeYear": 600,
+    "timeDay": 457,
+    "timeWeek": 587,
+    "timeMonth": 563,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2024-12-27": 201,
       "2024-11-11": 19,
@@ -26,8 +26,7 @@
       "2024-09-27": 273,
       "2024-09-15": 979,
       "2024-09-14": 30,
-      "2024-08-16": 496,
-      "2024-06-29": 21
+      "2024-08-16": 496
     }
   },
   {
@@ -36,16 +35,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bingo.annaaurora.eu.ico",
     "slug": "meme-bingo-web",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 597,
-    "timeDay": 630,
-    "timeWeek": 492,
-    "timeMonth": 537,
-    "timeYear": 609,
+    "timeDay": 744,
+    "timeWeek": 544,
+    "timeMonth": 542,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2025-01-13": 88,
       "2025-01-12": 20,
@@ -59,8 +58,7 @@
       "2024-09-27": 280,
       "2024-09-15": 979,
       "2024-09-14": 30,
-      "2024-08-16": 496,
-      "2024-06-29": 21
+      "2024-08-16": 496
     }
   },
   {
@@ -75,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 567,
-    "timeDay": 609,
-    "timeWeek": 494,
-    "timeMonth": 656,
+    "timeDay": 530,
+    "timeWeek": 518,
+    "timeMonth": 536,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2024-12-27": 200,
@@ -90,8 +88,7 @@
       "2024-09-27": 280,
       "2024-09-15": 979,
       "2024-09-14": 30,
-      "2024-08-16": 464,
-      "2024-06-29": 21
+      "2024-08-16": 464
     }
   },
   {
@@ -106,10 +103,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 542,
-    "timeDay": 696,
-    "timeWeek": 511,
-    "timeMonth": 523,
-    "timeYear": 552,
+    "timeDay": 542,
+    "timeWeek": 537,
+    "timeMonth": 522,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2024-12-27": 192,
       "2024-11-11": 17,
@@ -121,8 +118,7 @@
       "2024-09-27": 280,
       "2024-09-15": 979,
       "2024-09-14": 30,
-      "2024-08-16": 464,
-      "2024-06-29": 21
+      "2024-08-16": 464
     }
   },
   {
@@ -137,9 +133,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 526,
-    "timeDay": 697,
-    "timeWeek": 453,
-    "timeMonth": 494,
+    "timeDay": 534,
+    "timeWeek": 480,
+    "timeMonth": 496,
     "timeYear": 536,
     "dailyMinutesDown": {
       "2024-12-27": 191,
@@ -152,8 +148,7 @@
       "2024-09-27": 280,
       "2024-09-15": 979,
       "2024-09-14": 30,
-      "2024-08-16": 464,
-      "2024-06-29": 21
+      "2024-08-16": 464
     }
   },
   {
@@ -167,11 +162,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 559,
-    "timeDay": 614,
-    "timeWeek": 450,
-    "timeMonth": 487,
-    "timeYear": 559,
+    "time": 558,
+    "timeDay": 336,
+    "timeWeek": 444,
+    "timeMonth": 485,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2024-12-27": 191,
       "2024-11-11": 16,
@@ -188,16 +183,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.annaaurora.eu.ico",
     "slug": "matrix-server",
     "status": "up",
-    "uptime": "98.18%",
+    "uptime": "98.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "98.18%",
-    "time": 923,
-    "timeDay": 564,
-    "timeWeek": 824,
-    "timeMonth": 746,
-    "timeYear": 923,
+    "uptimeYear": "98.20%",
+    "time": 919,
+    "timeDay": 397,
+    "timeWeek": 827,
+    "timeMonth": 747,
+    "timeYear": 919,
     "dailyMinutesDown": {
       "2025-06-13": 134,
       "2025-05-16": 67,
@@ -226,7 +221,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 30,
+      "2025-06-29": 36,
+      "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,

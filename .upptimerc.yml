@@ -6,6 +6,9 @@ sites:
   - name: aaura-w3-strawb
     url: https://annaaurora.eu
     ipv6: true
+  - name: aaura-w3-strawb Atom feed
+    url: https://annaaurora.eu/atom.xml
+    ipv6: true
   - name: meme-bingo-web
     url: https://bingo.annaaurora.eu
     ipv6: true

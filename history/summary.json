@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 612,
-    "timeDay": 638,
-    "timeWeek": 644,
-    "timeMonth": 640,
+    "timeDay": 714,
+    "timeWeek": 647,
+    "timeMonth": 646,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2025-09-04": 33,
@@ -22,8 +22,7 @@
       "2024-11-11": 19,
       "2024-11-04": 352,
       "2024-10-26": 22,
-      "2024-10-20": 78,
-      "2024-10-19": 55
+      "2024-10-20": 78
     }
   },
   {
@@ -38,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 243,
-    "timeDay": 277,
-    "timeWeek": 234,
-    "timeMonth": 224,
+    "timeDay": 313,
+    "timeWeek": 250,
+    "timeMonth": 228,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-09-04": 33
@@ -58,10 +57,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 614,
-    "timeDay": 640,
-    "timeWeek": 609,
-    "timeMonth": 605,
-    "timeYear": 632,
+    "timeDay": 755,
+    "timeWeek": 636,
+    "timeMonth": 604,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2025-09-04": 33,
       "2025-01-13": 88,
@@ -70,8 +69,7 @@
       "2024-11-11": 18,
       "2024-11-04": 352,
       "2024-10-26": 21,
-      "2024-10-20": 56,
-      "2024-10-19": 54
+      "2024-10-20": 56
     }
   },
   {
@@ -85,19 +83,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 565,
-    "timeDay": 551,
-    "timeWeek": 582,
-    "timeMonth": 574,
-    "timeYear": 581,
+    "time": 566,
+    "timeDay": 722,
+    "timeWeek": 606,
+    "timeMonth": 581,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2025-09-04": 33,
       "2024-12-27": 200,
       "2024-11-11": 18,
       "2024-11-04": 351,
       "2024-10-26": 21,
-      "2024-10-20": 55,
-      "2024-10-19": 36
+      "2024-10-20": 55
     }
   },
   {
@@ -112,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 557,
-    "timeDay": 498,
-    "timeWeek": 569,
-    "timeMonth": 574,
+    "timeDay": 533,
+    "timeWeek": 573,
+    "timeMonth": 576,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2025-09-04": 32,
@@ -122,8 +119,7 @@
       "2024-11-11": 17,
       "2024-11-04": 351,
       "2024-10-26": 20,
-      "2024-10-20": 68,
-      "2024-10-19": 35
+      "2024-10-20": 68
     }
   },
   {
@@ -138,18 +134,17 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 537,
-    "timeDay": 705,
-    "timeWeek": 606,
-    "timeMonth": 538,
-    "timeYear": 548,
+    "timeDay": 532,
+    "timeWeek": 607,
+    "timeMonth": 540,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2025-09-04": 32,
       "2024-12-27": 191,
       "2024-11-11": 17,
       "2024-11-04": 350,
       "2024-10-26": 20,
-      "2024-10-20": 68,
-      "2024-10-19": 35
+      "2024-10-20": 68
     }
   },
   {
@@ -164,9 +159,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 552,
-    "timeDay": 482,
-    "timeWeek": 475,
-    "timeMonth": 510,
+    "timeDay": 535,
+    "timeWeek": 460,
+    "timeMonth": 512,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2025-09-04": 32,
@@ -174,8 +169,7 @@
       "2024-11-11": 16,
       "2024-11-04": 350,
       "2024-10-26": 19,
-      "2024-10-20": 62,
-      "2024-10-19": 34
+      "2024-10-20": 62
     }
   },
   {
@@ -184,18 +178,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.annaaurora.eu.ico",
     "slug": "matrix-server",
     "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.11%",
-    "time": 863,
-    "timeDay": 1532,
-    "timeWeek": 904,
-    "timeMonth": 803,
-    "timeYear": 863,
+    "uptime": "99.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.12%",
+    "time": 862,
+    "timeDay": 1637,
+    "timeWeek": 935,
+    "timeMonth": 811,
+    "timeYear": 862,
     "dailyMinutesDown": {
-      "2025-10-18": 11,
       "2025-09-24": 21,
       "2025-09-06": 23,
       "2025-09-04": 32,
@@ -228,7 +221,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 1089,
+      "2025-10-19": 34,
+      "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,

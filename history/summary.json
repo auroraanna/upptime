@@ -11,17 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 612,
-    "timeDay": 452,
-    "timeWeek": 527,
-    "timeMonth": 621,
+    "timeDay": 656,
+    "timeWeek": 519,
+    "timeMonth": 625,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2025-09-04": 33,
       "2025-07-07": 39,
       "2024-12-27": 201,
       "2024-11-11": 19,
-      "2024-11-04": 352,
-      "2024-10-26": 22
+      "2024-11-04": 352
     }
   },
   {
@@ -36,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 242,
-    "timeDay": 284,
-    "timeWeek": 234,
-    "timeMonth": 231,
+    "timeDay": 286,
+    "timeWeek": 230,
+    "timeMonth": 234,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2025-09-04": 33
@@ -56,18 +55,17 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 616,
-    "timeDay": 667,
-    "timeWeek": 620,
-    "timeMonth": 595,
-    "timeYear": 634,
+    "timeDay": 680,
+    "timeWeek": 610,
+    "timeMonth": 599,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2025-09-04": 33,
       "2025-01-13": 88,
       "2025-01-12": 20,
       "2024-12-27": 200,
       "2024-11-11": 18,
-      "2024-11-04": 352,
-      "2024-10-26": 21
+      "2024-11-04": 352
     }
   },
   {
@@ -76,22 +74,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/kaufkauflist.annaaurora.eu.ico",
     "slug": "kaufkauflist",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 565,
-    "timeDay": 503,
-    "timeWeek": 525,
+    "timeDay": 632,
+    "timeWeek": 512,
     "timeMonth": 551,
-    "timeYear": 581,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2025-09-04": 33,
       "2024-12-27": 200,
       "2024-11-11": 18,
-      "2024-11-04": 351,
-      "2024-10-26": 21
+      "2024-11-04": 351
     }
   },
   {
@@ -105,17 +102,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 557,
-    "timeDay": 351,
-    "timeWeek": 509,
-    "timeMonth": 562,
-    "timeYear": 572,
+    "time": 558,
+    "timeDay": 965,
+    "timeWeek": 571,
+    "timeMonth": 570,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2025-09-04": 32,
       "2024-12-27": 192,
       "2024-11-11": 17,
-      "2024-11-04": 351,
-      "2024-10-26": 20
+      "2024-11-04": 351
     }
   },
   {
@@ -124,22 +120,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/find-billy.annaaurora.eu.ico",
     "slug": "find-billy",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 538,
-    "timeDay": 682,
-    "timeWeek": 571,
-    "timeMonth": 561,
-    "timeYear": 549,
+    "time": 539,
+    "timeDay": 701,
+    "timeWeek": 595,
+    "timeMonth": 560,
+    "timeYear": 550,
     "dailyMinutesDown": {
       "2025-09-04": 32,
       "2024-12-27": 191,
       "2024-11-11": 17,
-      "2024-11-04": 350,
-      "2024-10-26": 20
+      "2024-11-04": 350
     }
   },
   {
@@ -154,16 +149,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 551,
-    "timeDay": 500,
-    "timeWeek": 518,
-    "timeMonth": 507,
+    "timeDay": 487,
+    "timeWeek": 511,
+    "timeMonth": 499,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2025-09-04": 32,
       "2024-12-27": 191,
       "2024-11-11": 16,
-      "2024-11-04": 350,
-      "2024-10-26": 19
+      "2024-11-04": 350
     }
   },
   {
@@ -172,16 +166,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.annaaurora.eu.ico",
     "slug": "matrix-server",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.14%",
-    "time": 855,
-    "timeDay": 558,
-    "timeWeek": 896,
-    "timeMonth": 733,
-    "timeYear": 855,
+    "uptimeYear": "99.15%",
+    "time": 853,
+    "timeDay": 501,
+    "timeWeek": 522,
+    "timeMonth": 735,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2025-09-24": 21,
       "2025-09-06": 23,
@@ -215,7 +209,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-25": 29,
+      "2025-10-26": 32,
+      "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,

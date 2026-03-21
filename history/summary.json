@@ -208,7 +208,7 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "97.59%",
     "time": 808,
-    "timeDay": 841,
+    "timeDay": 411,
     "timeWeek": 872,
     "timeMonth": 785,
     "timeYear": 810,
@@ -255,11 +255,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--rhre-5qa.annaaurora.eu.ico",
     "slug": "peertube",
     "status": "up",
-    "uptime": "9.74%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "7.16%",
-    "uptimeMonth": "13.52%",
-    "uptimeYear": "9.74%",
+    "uptime": "9.78%",
+    "uptimeDay": "5.43%",
+    "uptimeWeek": "7.93%",
+    "uptimeMonth": "13.70%",
+    "uptimeYear": "9.78%",
     "time": 736,
     "timeDay": 612,
     "timeWeek": 538,
@@ -403,7 +403,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-20": 1401,
+      "2026-03-21": 39,
+      "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
@@ -766,8 +767,7 @@
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
-      "2025-03-22": 1440,
-      "2025-03-21": 1440
+      "2025-03-22": 1440
     }
   }
 ]

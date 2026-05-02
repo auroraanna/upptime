@@ -1,7 +1,7 @@
 url: https://röhre.annaaurora.eu
-status: up
-code: 200
-responseTime: 733
-lastUpdated: 2026-05-02T13:58:22.485Z
+status: down
+code: 502
+responseTime: 398
+lastUpdated: 2026-05-02T20:36:52.190Z
 startTime: 2025-11-23T14:21:30.169Z
 generator: Upptime <https://github.com/upptime/upptime>

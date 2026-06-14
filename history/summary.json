@@ -249,11 +249,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--rhre-5qa.annaaurora.eu.ico",
     "slug": "peertube",
     "status": "up",
-    "uptime": "10.85%",
-    "uptimeDay": "8.85%",
-    "uptimeWeek": "1.26%",
-    "uptimeMonth": "9.06%",
-    "uptimeYear": "10.85%",
+    "uptime": "10.88%",
+    "uptimeDay": "15.55%",
+    "uptimeWeek": "2.22%",
+    "uptimeMonth": "9.28%",
+    "uptimeYear": "10.88%",
     "time": 670,
     "timeDay": 1949,
     "timeWeek": 964,
@@ -482,7 +482,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 1418,
+      "2026-06-14": 75,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -845,8 +846,7 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1440
+      "2025-06-15": 1440
     }
   }
 ]
